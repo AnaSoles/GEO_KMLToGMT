@@ -30,9 +30,21 @@ while True:
 	print(longitude)
 	print(latitude)
 	# write into file
+	output_file.write(latitude);
+	output_file.write(" ");
 	output_file.write(longitude);
 	output_file.write(" ");
-	output_file.write(latitude);
+	output_file.write("5");
+	output_file.write(" ");
+	output_file.write("0");
+	output_file.write(" ");
+	output_file.write("1");
+	output_file.write(" ");
+	output_file.write("BC");
+	output_file.write(" ");
+	output_file.write("I");
+	output_file.write(" ");
+	output_file.write(name);
 	output_file.write(" ");
 	output_file.write("\n");
 
