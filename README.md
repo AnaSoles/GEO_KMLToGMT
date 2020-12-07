@@ -16,7 +16,10 @@ Write down the followers files
 
 The output files are: 
 - output.pstext (Command used in GMT mapping tool to text maps)
+
 ![pstext](https://user-images.githubusercontent.com/52880203/101352822-fd3dd280-3892-11eb-9a62-53d470d6a831.png)
+
 - output.xlsx (Excel sheet for a report)
+
 ![excel_sheet](https://user-images.githubusercontent.com/52880203/101352662-cb2c7080-3892-11eb-8688-f194c9efc1f0.png)
 
