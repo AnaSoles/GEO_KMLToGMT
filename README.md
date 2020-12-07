@@ -16,7 +16,7 @@ Go to the menu "Tools", select "Options"
 ![GE-1](https://user-images.githubusercontent.com/52880203/101363317-8c51e700-38a1-11eb-9d49-6372e88adba0.png)
 
 In the pop up window check on Universal Transverse Mercator (UTEM )if you are in Geographical coordinates and you want to get UTM coordinates
-![GE-2](https://user-images.githubusercontent.com/52880203/101363365-9e338a00-38a1-11eb-9b55-afd84ee35860.png)
+![GE-2](https://user-images.githubusercontent.com/52880203/101364371-c7084f00-38a2-11eb-835c-8365ef7ab69c.png)
 
 Go to "Places", select the point, right click, properties and check if the unit system has been changed in the coordinates
 ![GE-3](https://user-images.githubusercontent.com/52880203/101363548-d33fdc80-38a1-11eb-8fd2-95780593bbdd.png)
