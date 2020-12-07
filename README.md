@@ -2,13 +2,14 @@
 This tool parse and extract points coordinates from KML file (Google Earth) to ASCCI file with PSXY and PSTEXT GMT templates
 
 Steps to lunch it:
-Set up your command line in the folder you have the KML files.
+Set up in command line the path folder where you have the KML files.
 
-Files requiered in that order:
+Files requiered (respectively):
 1. 00_COORDENADAS.py
 2. TUNELS_GEO.kml
 3. TUNELS_UTM.kml
 4. output (name of the outputfil)
+Enjoy it!
 
 Write down the followers files
 ![2020-12-07 13_36_41-Window](https://user-images.githubusercontent.com/52880203/101352571-a59f6700-3892-11eb-927e-257c7c8419ff.png)
