@@ -6,9 +6,12 @@ Set up in command line the path folder where you have the KML files.
 
 Files requiered (respectively):
 1. 00_COORDENADAS.py
-2. TUNELS_GEO.kml
-3. TUNELS_UTM.kml
+2. POINTS_GEO.kml (in geographical coordinates)
+3. POINTS_UTM.kml (in UTM coordinates)
 4. output (name of the outputfil)
+
+To get 3. or 4. you just need to go to Google Earth and change the parameter
+
 Enjoy it!
 
 To launch the tool, write down in the command line:
