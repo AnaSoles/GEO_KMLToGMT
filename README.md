@@ -21,5 +21,5 @@ The output files are:
 
 - output.xlsx (Excel sheet for a report)
 
-![excel_sheet](https://user-images.githubusercontent.com/52880203/101352662-cb2c7080-3892-11eb-8688-f194c9efc1f0.png)
+![pstext](https://user-images.githubusercontent.com/52880203/101357820-42193780-389a-11eb-870d-53d227c68fb2.png)
 
