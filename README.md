@@ -24,7 +24,6 @@ Go to "Places", select the point, right click, properties and check if the unit 
 
 ![GE-3](https://user-images.githubusercontent.com/52880203/101363548-d33fdc80-38a1-11eb-8fd2-95780593bbdd.png)
 
-Enjoy it!
 
 To launch the tool, write down in the command line:
 
@@ -38,4 +37,6 @@ The output files are:
 - output.xlsx (Excel sheet for a report)
 
 ![pstext](https://user-images.githubusercontent.com/52880203/101357820-42193780-389a-11eb-870d-53d227c68fb2.png)
+
+Enjoy it :-D
 
