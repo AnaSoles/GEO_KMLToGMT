@@ -1,7 +1,7 @@
 # KML_To_GMT
 This tool parse and extract points coordinates from KML file (Google Earth) to ASCCI file with PSXY and PSTEXT GMT templates
 
-Steps to lunch it:
+Steps to lunch the tool:
 Set up in command line the path folder where you have the KML files.
 
 Files requiered (respectively):
@@ -11,13 +11,13 @@ Files requiered (respectively):
 4. output (name of the outputfil)
 Enjoy it!
 
-Write down the followers files
-![2020-12-07 13_36_41-Window](https://user-images.githubusercontent.com/52880203/101352571-a59f6700-3892-11eb-927e-257c7c8419ff.png)
+To launch the tool, write down in the command line:
+![2020-12-07 13_36_41-Window](https://user-images.githubusercontent.com/52880203/101357547-df27a080-3899-11eb-83ae-dcd953f810ca.png)
 
 The output files are: 
 - output.pstext (Command used in GMT mapping tool to text maps)
 
-![pstext](https://user-images.githubusercontent.com/52880203/101352822-fd3dd280-3892-11eb-9a62-53d470d6a831.png)
+![excel_sheet](https://user-images.githubusercontent.com/52880203/101357293-8821cb80-3899-11eb-95f7-9f3e11999ccb.png)
 
 - output.xlsx (Excel sheet for a report)
 
