@@ -1,14 +1,14 @@
 # KML_To_GMT
-This tool parses and extracts geographical and utm coordinates from KML point file (Google Earth) into ASCCI file (PSXY and PSTEXT GMT templates) and excel sheet
+This tool parses and extracts geographical and utm coordinates from KML point file (Google Earth) into ASCCI file (PSXY and PSTEXT, wich have GMT templates formats) and Excel sheet with poin names and coordinates. Point names without grammatical accents (utf issues).
 
-Steps to lunch the tool:
+Steps to launch the tool:
 Set up in command line the path folder where you have the KML files.
 
 Files requiered (respectively):
 1. 00_COORDENADAS.py
 2. POINTS_GEO.kml (in geographical coordinates)
 3. POINTS_UTM.kml (in UTM coordinates)
-4. output (name of the outputfil)
+4. OUTPUT FILE NAME (without any extension) dont recognize accents.
 
 To get 3. or 4. you just need to go to Google Earth and switch from one coodinates to the other one.
 
