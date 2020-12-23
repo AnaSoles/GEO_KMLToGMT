@@ -8,7 +8,7 @@ Files requiered (respectively):
 1. 00_COORDENADAS.py
 2. POINTS_GEO.kml (in geographical coordinates)
 3. POINTS_UTM.kml (in UTM coordinates)
-4. OUTPUT FILE NAME (without any extension) dont recognize accents.
+4. OUTPUT FILE NAME (without any extension) dont recognize accents, encoding issues.
 
 To get geographic or utm coordinates go to Google Earth and switch from one coodinates system to the other one.
 
