@@ -1,5 +1,5 @@
 # KML_To_GMT
-This tool parse and extract geographical and utm coordinates from KML point file (Google Earth) into ASCCI file (PSXY and PSTEXT GMT templates) and excel sheet
+This tool parses and extracts geographical and utm coordinates from KML point file (Google Earth) into ASCCI file (PSXY and PSTEXT GMT templates) and excel sheet
 
 Steps to lunch the tool:
 Set up in command line the path folder where you have the KML files.
