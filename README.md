@@ -10,7 +10,7 @@ Files requiered (respectively):
 3. POINTS_UTM.kml (in UTM coordinates)
 4. OUTPUT FILE NAME (without any extension) dont recognize accents.
 
-To get 3. or 4. you just need to go to Google Earth and switch from one coodinates to the other one.
+To get geographic or utm coordinates go to Google Earth and switch from one coodinates system to the other one.
 
 Go to the menu "Tools", select "Options"  
 
